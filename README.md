@@ -5,7 +5,7 @@ Code Path IOS Course 2021
 Flixster is an app that allows users to browse movies from the [The Movie Database API](http://docs.themoviedb.apiary.io/#).
 
 This will show a history of your development process, which users stories you completed and how your app looked and functioned at each step.
-
+Time Spent: ~4 hours
 ---
 
 ## Flixster Part 1
@@ -27,6 +27,8 @@ This will show a history of your development process, which users stories you co
 
 ### Notes
 Describe any challenges encountered while building the app.
-- Familiarizing with xcode enviornment settings, layout, etc.. Tutorial has different xcode version so the tools require one to look for :)
+- Familiarizing with xcode environment settings, layout, etc.. Tutorial has different xcode version so the tools require one to look for :)
 - Installing pod correctly for project
 - Understanding all setings for TableView, TableViewCell, basically all components used
+- Understanding swift, different ballgame to what I'm accustomed to
+- Reading documentation apart from tutorial was fun
