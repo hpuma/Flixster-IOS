@@ -57,6 +57,7 @@
                                             <outlet property="posterView" destination="hGh-kR-j7U" id="qta-iO-fde"/>
                                             <outlet property="synopsisLabel" destination="AaZ-c4-Hdn" id="B6Z-tJ-kRr"/>
                                             <outlet property="titleLabel" destination="b7E-0P-cQG" id="vbq-SG-Ygv"/>
+                                            <segue destination="j5P-ks-IDK" kind="show" id="typ-ty-mcP"/>
                                         </connections>
                                     </tableViewCell>
                                 </prototypes>
@@ -72,7 +73,7 @@
                 </viewController>
                 <placeholder placeholderIdentifier="IBFirstResponder" id="dkx-z0-nzr" sceneMemberID="firstResponder"/>
             </objects>
-            <point key="canvasLocation" x="944.92753623188412" y="112.5"/>
+            <point key="canvasLocation" x="996" y="113"/>
         </scene>
         <!--Navigation Controller-->
         <scene sceneID="MPh-hN-hHH">
@@ -91,6 +92,22 @@
                 <placeholder placeholderIdentifier="IBFirstResponder" id="2jx-1K-xam" userLabel="First Responder" customClass="UIResponder" sceneMemberID="firstResponder"/>
             </objects>
             <point key="canvasLocation" x="34.782608695652179" y="112.5"/>
+        </scene>
+        <!--Movie Details View Controller-->
+        <scene sceneID="VY5-Om-7Oz">
+            <objects>
+                <viewController id="j5P-ks-IDK" customClass="MovieDetailsViewController" customModule="Flixster" customModuleProvider="target" sceneMemberID="viewController">
+                    <view key="view" contentMode="scaleToFill" id="1l4-2J-2K8">
+                        <rect key="frame" x="0.0" y="0.0" width="414" height="896"/>
+                        <autoresizingMask key="autoresizingMask" widthSizable="YES" heightSizable="YES"/>
+                        <viewLayoutGuide key="safeArea" id="gOb-wR-vNz"/>
+                        <color key="backgroundColor" systemColor="systemBackgroundColor"/>
+                    </view>
+                    <navigationItem key="navigationItem" id="3Oa-FE-Jb8"/>
+                </viewController>
+                <placeholder placeholderIdentifier="IBFirstResponder" id="emA-D5-aCq" userLabel="First Responder" customClass="UIResponder" sceneMemberID="firstResponder"/>
+            </objects>
+            <point key="canvasLocation" x="1843" y="113"/>
         </scene>
     </scenes>
     <resources>
