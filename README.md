@@ -4,7 +4,7 @@ Code Path IOS Course Spring 2021
 
 Flixster is an app that allows users to browse movies from the [The Movie Database API](http://docs.themoviedb.apiary.io/#).
 
-##### Time Spent: ~4 hours
+##### Time Spent: ~6 hours for both parts
 
 ## Flixster Part 1
 
@@ -17,7 +17,7 @@ Flixster is an app that allows users to browse movies from the [The Movie Databa
 
 #### BONUS
 - [ ] (2pt) User can view the app on various device sizes and orientations.
-- [ ] (1pt) Run your app on a real device.
+- [x] (1pt) Run your app on a real device.
 
 ### App Walkthrough GIF
 App launches and runs correctly
